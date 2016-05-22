@@ -11,7 +11,7 @@ typedef unsigned char code_t;
 typedef unsigned char index_t;
 int main()
 {
-    printf("==== 数据压缩大作业3 - 基于LBG的图像矢量压缩 张佳辰13020188003 压缩程序 ====\n\n");
+    printf("==== 数据压缩大作业3 - 基于LBG的图像矢量量化 张佳辰13020188003 压缩程序 ====\n\n");
     int i,j,size0;
     int rows, cols, parts;
     int width, height;
